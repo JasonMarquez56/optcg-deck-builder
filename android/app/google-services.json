@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149706430369",
+    "project_id": "optcg-deck-builder",
+    "storage_bucket": "optcg-deck-builder.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149706430369:android:faba86a627f707d2861de0",
+        "android_client_info": {
+          "package_name": "com.example.optcg_deck_builder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVqn3p1XSz4WIK09TO04gsX7irrvk_s_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
