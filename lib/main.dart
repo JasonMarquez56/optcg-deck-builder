@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 
 // Import Landing Page
-import 'package:optcg_deck_builder/features/cards/screens/landing_page.dart';
 
 // Your app's home page
 import 'package:optcg_deck_builder/features/cards/screens/home_page.dart';

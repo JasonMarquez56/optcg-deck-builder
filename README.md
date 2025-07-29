@@ -1,16 +1,23 @@
-# optcg_deck_builder
+# One Piece TCG Deck Builder
 
-A new Flutter project.
+A web-based deck-building app for the **One Piece Trading Card Game (TCG)**. Easily create, customize, and share your decks using a modern and user-friendly interface.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Searchable Card Database** – Quickly find cards by name, color, type, cost, or effect.
+- **Deck Import/Export** – Save decks locally or share via deck codes/links.
+- **Deck Validation** – Ensure your deck follows One Piece TCG rules (e.g., card limits, Don!! count).
+- **Card Previews** – Hover to view full-sized card images and detailed info.
+- **Favorites and Collections** – Track your owned cards or wishlist.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[Live Demo](https://your-deckbuilder-url.com)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+- **Frontend**: React / Next.js / TypeScript
+- **Backend**: Node.js / Express / MongoDB (if applicable)
+- **Styling**: Tailwind CSS / ShadCN UI
+- **Auth (optional)**: Google or Discord OAuth
+- **Data**: Card data from [official OP TCG source] or [custom scraper/API]
