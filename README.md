@@ -10,10 +10,6 @@ A web-based deck-building app for the **One Piece Trading Card Game (TCG)**. Eas
 - **Card Previews** – Hover to view full-sized card images and detailed info.
 - **Favorites and Collections** – Track your owned cards or wishlist.
 
-## Demo
-
-[Live Demo](https://your-deckbuilder-url.com)
-
 ## Tech Stack
 
 - **Frontend**: React / Next.js / TypeScript
